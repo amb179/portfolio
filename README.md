@@ -5,8 +5,8 @@
 Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website Hosted by Heroku](https://portfolio-amb.herokuapp.com/)
 
-[Screenshot](<img width="1434" alt="Screen Shot 2022-05-26 at 3 35 00 PM" src="https://user-images.githubusercontent.com/104404765/170591029-13eb93d5-ef47-41a9-be69-707753f88633.png">
-)
+[Screenshot]<img width="1434" alt="Screen Shot 2022-05-26 at 3 35 00 PM" src="https://user-images.githubusercontent.com/104404765/170591124-3a7fbf05-1bb6-4fe1-ab8a-53a208595631.png">
+
 
 ## Tech used
 
